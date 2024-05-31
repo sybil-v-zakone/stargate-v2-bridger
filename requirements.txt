@@ -1,0 +1,8 @@
+aiohttp==3.8.5
+aiohttp_proxy==0.1.2
+ccxt==4.0.95
+loguru==0.7.0
+pyTelegramBotAPI==4.14.0
+tqdm==4.66.1
+web3==6.8.0
+rich==13.7.0
