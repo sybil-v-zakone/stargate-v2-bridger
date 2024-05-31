@@ -17,9 +17,6 @@ PRIVATE_KEYS_PATH = "data/private_keys.txt"
 # path to proxies.txt file
 PROXIES_PATH = "data/proxies.txt"
 
-# path to deposit_addresses.txt file
-DEPOSIT_ADDRESSES_PATH = "data/deposit_addresses.txt"
-
 # path to a database.json file
 DATABASE_PATH = "data/database.json"
 
